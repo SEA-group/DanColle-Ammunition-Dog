@@ -1,10 +1,11 @@
-﻿# HEAP Dog / 高爆穿甲狗
+﻿# [HE/AP/SAP] High Explosive Anti Ship Dog / 高爆穿甲狗
 
-======================Presented by SEA group======================
+HE & AP & SAP shell model modification
 
-Installation: 
-Copy "content" into /res_mods/a.b.c.d(current version)/
+## Installation
+* **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/[version number]/`
+* **For Steam users**, copy `content` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
-安装：
-将content复制到/res_mods/a.b.c.d(当前客户端版本号)/
-
+## 使用方法
+* **WG游戏中心用户**请把`content`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/[版本号]/`里面
+* **Steam客户端用户**请把`content`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
